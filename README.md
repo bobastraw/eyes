@@ -1,1 +1,1 @@
-# eyes
+'Move mouse around and the eyes will follow. Click the mouse to change the color of the eyes. Press any key to "be seen".
